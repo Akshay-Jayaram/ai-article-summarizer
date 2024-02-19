@@ -1,8 +1,19 @@
-# React + Vite
+# SummAIzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SummAIzer is an AI-powered article summarizer built with the React framework and TailwindCSS, with the potential for Software as a Service (SaaS) conversion.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **AI-Powered Summarization:** Utilizes OpenAI GPT-4 API to summarize articles efficiently.
+- **Seamless Integration:** Implemented Redux Toolkit (RTK) Query for seamless integration of the OpenAI GPT-4 API.
+- **Responsive Design:** Built using JavaScript, React, ensuring responsiveness across various devices.
+- **Scalability:** Designed with scalability in mind, enabling potential conversion into a SaaS platform.
+
+## Technologies Used
+
+- JavaScript
+- React
+- TailwindCSS
+- Redux Toolkit (RTK) Query
+
+
